@@ -17,8 +17,8 @@ Curriculum (Weekly)
 | 4 | CSS Basics 2    | More about CSS |  (link to be shared later)
 | 5 | HTML and CSS Together   | Making a web page with HTML and CSS |  (link to be shared later)
 | 6 | Javascript Basics 1    | What is Javascript and why we use it |  (link to be shared later)
-| 6 | Javascript Basics 2    | More about Javascript |  (link to be shared later)
-| 6 | Make a simple club website with HTML, CSS and Javscript    | What is Javascript and why we use it |  (link to be shared later)
+| 7 | Javascript Basics 2    | More about Javascript |  (link to be shared later)
+| 8 | Make a simple club website with HTML, CSS and Javscript    | What is Javascript and why we use it |  (link to be shared later)
 
 ## Semester 2 - March ~ May 
 
